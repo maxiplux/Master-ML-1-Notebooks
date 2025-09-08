@@ -46,7 +46,7 @@ Principales librerías: numpy, pandas, matplotlib, seaborn, scikit-learn, statsm
 1) Clona o descarga este repositorio y ubica la ruta del proyecto:
 
 ```
-C:\Users\franc\OneDrive\Documentos\AI\ICESI\Aprendizaje automatico 1\notebook\Notebooks - Sesion 1
+https://github.com/maxiplux/Master-ML-1-Notebooks/tree/master
 ```
 
 2) Crea y activa un entorno virtual con Python 3.11 (recomendado):
